@@ -18,7 +18,8 @@ function formatDate(date: Date): string {
     'October',
     'November',
     'December',
-    'kerri'
+    'kerri',
+    'bella'
   ];
 
   const day = date.getDate();
